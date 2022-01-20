@@ -32,7 +32,7 @@ soupsieve==2.0.1
 sqlparse==0.3.1
 tqdm==4.46.1
 twitterscraper==1.4.0
-urllib3==1.25.9
+urllib3==1.26.5
 w3lib==1.22.0
 websockets==8.1
 zipp==3.1.0
