@@ -21,7 +21,7 @@ lxml==4.6.5
 Markdown==3.2.2
 parse==1.15.0
 pyee==7.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyppeteer==0.2.2
 pyquery==1.4.1
 pytz==2020.1
